@@ -1,0 +1,12 @@
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/bin/Debug/netcoreapp3.1/thefirst.deps.json
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/bin/Debug/netcoreapp3.1/thefirst.runtimeconfig.json
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/bin/Debug/netcoreapp3.1/thefirst.runtimeconfig.dev.json
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/bin/Debug/netcoreapp3.1/thefirst.dll
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/bin/Debug/netcoreapp3.1/thefirst.pdb
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/obj/Debug/netcoreapp3.1/thefirst.csprojAssemblyReference.cache
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/obj/Debug/netcoreapp3.1/thefirst.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/obj/Debug/netcoreapp3.1/thefirst.AssemblyInfo.cs
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/obj/Debug/netcoreapp3.1/thefirst.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/obj/Debug/netcoreapp3.1/thefirst.dll
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/obj/Debug/netcoreapp3.1/thefirst.pdb
+/Users/alenavorobej/Documents/c #/thefirst/thefirst/obj/Debug/netcoreapp3.1/thefirst.genruntimeconfig.cache
