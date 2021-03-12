@@ -1,0 +1,24 @@
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.deps.json
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.runtimeconfig.json
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.runtimeconfig.dev.json
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.dll
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.pdb
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.csprojAssemblyReference.cache
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.AssemblyInfo.cs
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.dll
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.pdb
+/Users/alenavorobej/Documents/c #/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.genruntimeconfig.cache
+/Users/alenavorobej/Desktop/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.deps.json
+/Users/alenavorobej/Desktop/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.runtimeconfig.json
+/Users/alenavorobej/Desktop/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.runtimeconfig.dev.json
+/Users/alenavorobej/Desktop/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.dll
+/Users/alenavorobej/Desktop/лаба2/replace/l23/bin/Debug/netcoreapp3.1/l23.pdb
+/Users/alenavorobej/Desktop/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.csprojAssemblyReference.cache
+/Users/alenavorobej/Desktop/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.AssemblyInfoInputs.cache
+/Users/alenavorobej/Desktop/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.AssemblyInfo.cs
+/Users/alenavorobej/Desktop/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Desktop/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.dll
+/Users/alenavorobej/Desktop/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.pdb
+/Users/alenavorobej/Desktop/лаба2/replace/l23/obj/Debug/netcoreapp3.1/l23.genruntimeconfig.cache

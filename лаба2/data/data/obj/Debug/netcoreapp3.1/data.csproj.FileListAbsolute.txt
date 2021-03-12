@@ -1,0 +1,24 @@
+/Users/alenavorobej/Documents/c #/data/data/bin/Debug/netcoreapp3.1/data.deps.json
+/Users/alenavorobej/Documents/c #/data/data/bin/Debug/netcoreapp3.1/data.runtimeconfig.json
+/Users/alenavorobej/Documents/c #/data/data/bin/Debug/netcoreapp3.1/data.runtimeconfig.dev.json
+/Users/alenavorobej/Documents/c #/data/data/bin/Debug/netcoreapp3.1/data.dll
+/Users/alenavorobej/Documents/c #/data/data/bin/Debug/netcoreapp3.1/data.pdb
+/Users/alenavorobej/Documents/c #/data/data/obj/Debug/netcoreapp3.1/data.csprojAssemblyReference.cache
+/Users/alenavorobej/Documents/c #/data/data/obj/Debug/netcoreapp3.1/data.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/c #/data/data/obj/Debug/netcoreapp3.1/data.AssemblyInfo.cs
+/Users/alenavorobej/Documents/c #/data/data/obj/Debug/netcoreapp3.1/data.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/c #/data/data/obj/Debug/netcoreapp3.1/data.dll
+/Users/alenavorobej/Documents/c #/data/data/obj/Debug/netcoreapp3.1/data.pdb
+/Users/alenavorobej/Documents/c #/data/data/obj/Debug/netcoreapp3.1/data.genruntimeconfig.cache
+/Users/alenavorobej/Desktop/лаба2/data/data/bin/Debug/netcoreapp3.1/data.deps.json
+/Users/alenavorobej/Desktop/лаба2/data/data/bin/Debug/netcoreapp3.1/data.runtimeconfig.json
+/Users/alenavorobej/Desktop/лаба2/data/data/bin/Debug/netcoreapp3.1/data.runtimeconfig.dev.json
+/Users/alenavorobej/Desktop/лаба2/data/data/bin/Debug/netcoreapp3.1/data.dll
+/Users/alenavorobej/Desktop/лаба2/data/data/bin/Debug/netcoreapp3.1/data.pdb
+/Users/alenavorobej/Desktop/лаба2/data/data/obj/Debug/netcoreapp3.1/data.csprojAssemblyReference.cache
+/Users/alenavorobej/Desktop/лаба2/data/data/obj/Debug/netcoreapp3.1/data.AssemblyInfoInputs.cache
+/Users/alenavorobej/Desktop/лаба2/data/data/obj/Debug/netcoreapp3.1/data.AssemblyInfo.cs
+/Users/alenavorobej/Desktop/лаба2/data/data/obj/Debug/netcoreapp3.1/data.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Desktop/лаба2/data/data/obj/Debug/netcoreapp3.1/data.dll
+/Users/alenavorobej/Desktop/лаба2/data/data/obj/Debug/netcoreapp3.1/data.pdb
+/Users/alenavorobej/Desktop/лаба2/data/data/obj/Debug/netcoreapp3.1/data.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.deps.json
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.runtimeconfig.json
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.runtimeconfig.dev.json
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.dll
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.pdb
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.csprojAssemblyReference.cache
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.AssemblyInfo.cs
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.dll
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.pdb
+/Users/alenavorobej/Documents/c #/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.genruntimeconfig.cache
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.deps.json
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.runtimeconfig.json
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.runtimeconfig.dev.json
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.dll
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/bin/Debug/netcoreapp3.1/reverse.pdb
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.csprojAssemblyReference.cache
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.AssemblyInfoInputs.cache
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.AssemblyInfo.cs
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.dll
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.pdb
+/Users/alenavorobej/Desktop/лаба2/reverse/reverse/obj/Debug/netcoreapp3.1/reverse.genruntimeconfig.cache
