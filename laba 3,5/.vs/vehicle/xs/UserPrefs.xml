@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{CF0512BB-F619-42B0-820E-216D6E64C19A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vehicle/Program.cs">
+    <Files>
+      <File FileName="vehicle/Program.cs" Line="23" Column="16" />
+      <File FileName="vehicle/listvehicle.cs" Line="17" Column="25" />
+      <File FileName="vehicle/Car.cs" Line="21" Column="10" />
+      <File FileName="vehicle/Audi.cs" Line="12" Column="6" />
+      <File FileName="vehicle/vehicle.cs" Line="62" Column="38" />
+      <File FileName="vehicle/Mercedes.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vehicle" expanded="True">
+            <Node name="vehicle" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../vehicle/Program.cs" line="21" column="24" endLine="21" endColumn="31" offsetX="-1" offsetY="-1" expression="Vehicle" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.vehicle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

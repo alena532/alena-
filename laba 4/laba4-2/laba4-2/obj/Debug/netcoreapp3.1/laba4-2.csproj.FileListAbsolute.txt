@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\obj\Debug\netcoreapp3.1\laba4-2.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\obj\Debug\netcoreapp3.1\laba4-2.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\obj\Debug\netcoreapp3.1\laba4-2.AssemblyInfo.cs
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\obj\Debug\netcoreapp3.1\laba4-2.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\bin\Debug\netcoreapp3.1\laba4-2.exe
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\bin\Debug\netcoreapp3.1\laba4-2.deps.json
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\bin\Debug\netcoreapp3.1\laba4-2.runtimeconfig.json
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\bin\Debug\netcoreapp3.1\laba4-2.runtimeconfig.dev.json
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\bin\Debug\netcoreapp3.1\laba4-2.dll
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\bin\Debug\netcoreapp3.1\laba4-2.pdb
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\obj\Debug\netcoreapp3.1\laba4-2.csproj.CopyComplete
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\obj\Debug\netcoreapp3.1\laba4-2.dll
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\obj\Debug\netcoreapp3.1\laba4-2.pdb
+C:\Users\Home\Desktop\testVisualC#\laba4-2\laba4-2\obj\Debug\netcoreapp3.1\laba4-2.genruntimeconfig.cache
