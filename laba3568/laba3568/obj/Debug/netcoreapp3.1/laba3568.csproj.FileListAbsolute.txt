@@ -1,0 +1,12 @@
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/obj/Debug/netcoreapp3.1/laba3568.csprojAssemblyReference.cache
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/obj/Debug/netcoreapp3.1/laba3568.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/obj/Debug/netcoreapp3.1/laba3568.AssemblyInfo.cs
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/obj/Debug/netcoreapp3.1/laba3568.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/bin/Debug/netcoreapp3.1/laba3568.deps.json
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/bin/Debug/netcoreapp3.1/laba3568.runtimeconfig.json
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/bin/Debug/netcoreapp3.1/laba3568.runtimeconfig.dev.json
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/bin/Debug/netcoreapp3.1/laba3568.dll
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/bin/Debug/netcoreapp3.1/laba3568.pdb
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/obj/Debug/netcoreapp3.1/laba3568.dll
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/obj/Debug/netcoreapp3.1/laba3568.pdb
+/Users/alenavorobej/Documents/c#/laba3568/laba3568/obj/Debug/netcoreapp3.1/laba3568.genruntimeconfig.cache
